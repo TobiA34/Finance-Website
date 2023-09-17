@@ -279,7 +279,6 @@ body {
   #logo {
     width: 250px;
     height: 86px;
-    margin-left: 113px;
   }
 
   form {
@@ -325,8 +324,7 @@ body {
   }
 
   #container-1 {
-      background: lawngreen;
-    padding: 0 20px;
+    width: 100%;
   }
 
   div {
@@ -343,6 +341,7 @@ body {
   #box1 {
     background: #b20dc4;
     word-wrap: break-word;
+    margin-left: 19px;
   }
 
   #box1 h1 {
